@@ -42,6 +42,8 @@ body {
 
 .items {
   height: 500px;
+
+  /* 페이지가 넘어가면 스크롤바 생성 */
   overflow-y: auto;
 }
 
